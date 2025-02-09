@@ -1,4 +1,4 @@
-const API_KEY = "3030dd50-af2c-4d6e-932d-221ac3b1ff28";
+const API_KEY = "";
 
 export const getMatches = () => {
   const url = `https://api.cricapi.com/v1/matches?apikey=${API_KEY}&offset=0`;
